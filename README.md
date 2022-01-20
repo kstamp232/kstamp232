@@ -13,7 +13,7 @@
 👩🏻‍💻 When I'm not job searching you can find me investigating new things data and machine learning.                                                                     
 🏫 Currently working through HarvardX's Computer Science course.                                                                                      
 🧩 My competitive nature has also been known to come out in an escape room or two.                                                                                 
-🍃 I'm lucky to live near such beautiful sights and landscapes and enjoy exploring them with my fluffy terrier-cross called Buddy.
+🍃 I'm lucky to live near such beautiful landscapes and enjoy exploring them with my fluffy terrier-cross called Buddy.
 
 <hr>
 
