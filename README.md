@@ -10,9 +10,9 @@
 <hr>
 
 🎓 I'm a graduate from General Assembly's Data Science Immersive course.                                                                                            
-👩🏻‍💻 When I'm not job searching you can find me learning new things data and machine learning.                                                                     
+👩🏻‍💻 When I'm not job searching you can find me investigating new things data and machine learning.                                                                     
 🏫 Currently working through HarvardX's Computer Science course.                                                                                      
-🧩 My competitive nature has been known to come out in an escape room or two.                                                                                 
+🧩 My competitive nature has also been known to come out in an escape room or two.                                                                                 
 🍃 I'm lucky to live near such beautiful sights and landscapes and enjoy exploring them with my fluffy terrier-cross called Buddy.
 
 <hr>
