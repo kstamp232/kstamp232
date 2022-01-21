@@ -19,7 +19,7 @@
 
 #### Let's Connect
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-25A785?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kstamp232@gmail.com)](mailto:ing.miller.vega@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-25A785?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kstamp232@gmail.com)](mailto:kstamp232@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-A0B0AC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katie-stamp/)](https://www.linkedin.com/in/katie-stamp/)
 [![GitHub](https://img.shields.io/badge/-GitHub-25A785?style=flat-square&logo=github&logoColor=white&link=https://github.com/kstamp232)](https://github.com/kstamp232)
 
